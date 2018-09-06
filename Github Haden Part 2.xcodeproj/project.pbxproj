@@ -12,6 +12,7 @@
 		0759EC032141C18200B49F6D /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0759EC012141C18200B49F6D /* Main.storyboard */; };
 		0759EC052141C18200B49F6D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0759EC042141C18200B49F6D /* Assets.xcassets */; };
 		0759EC082141C18200B49F6D /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0759EC062141C18200B49F6D /* LaunchScreen.storyboard */; };
+		0759EC102141C4A800B49F6D /* league-of-legends-lol-hd-wallpaper_043828622_233.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0759EC0F2141C4A800B49F6D /* league-of-legends-lol-hd-wallpaper_043828622_233.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		0759EC042141C18200B49F6D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0759EC072141C18200B49F6D /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0759EC092141C18200B49F6D /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0759EC0F2141C4A800B49F6D /* league-of-legends-lol-hd-wallpaper_043828622_233.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "league-of-legends-lol-hd-wallpaper_043828622_233.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				0759EC042141C18200B49F6D /* Assets.xcassets */,
 				0759EC062141C18200B49F6D /* LaunchScreen.storyboard */,
 				0759EC092141C18200B49F6D /* Info.plist */,
+				0759EC0F2141C4A800B49F6D /* league-of-legends-lol-hd-wallpaper_043828622_233.jpg */,
 			);
 			path = "Github Haden Part 2";
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				0759EC082141C18200B49F6D /* LaunchScreen.storyboard in Resources */,
 				0759EC052141C18200B49F6D /* Assets.xcassets in Resources */,
+				0759EC102141C4A800B49F6D /* league-of-legends-lol-hd-wallpaper_043828622_233.jpg in Resources */,
 				0759EC032141C18200B49F6D /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
